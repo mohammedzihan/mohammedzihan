@@ -7,7 +7,15 @@
 
 - 🔭 I lead Frontend and Backend engineering teams that have built complex software applications serving over a **million users.**
 
-- 🌱 Have expertise on frameworks & technologies like **ReactJS, NodeJS, Java, Postgres, React Native, Kafka, Google cloud services**
+- 🌱 Have expertise on frameworks & technologies like **ReactJS, NodeJS, Java, Postgres, MongoDB, React Native, Kafka, Google cloud services**
+
+🚀**Languages**: Javascript, Typescript, Java, HTML, CSS, Dart 
+
+🚀**Frontend** : ReactJS, React Native, Flutter, Webpack, Shopify, GatsbyJS, NextJS. 
+
+🚀**Backend** : Nodejs, NestJS, Spring Boot, Postgres, MongoDB, MySQL, ElasticSearch, Redis, Kafka. 
+
+🚀**Cloud Stack**: Docker, Kubernetes, Dataflow, Cloud Run, Pub-Sub, GKE, Firestore, Cloud Storage, DialogFlow, BigQuery
 
 - 📝 I regularly write articles on System Design, Full Stack development, Database internals and Cloud native development. [https://medium.com/@mohammedzihan](https://medium.com/@mohammedzihan)
 
